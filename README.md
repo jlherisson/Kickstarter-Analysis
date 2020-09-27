@@ -10,8 +10,8 @@ By creating a “Kickstarter dataset”, we can help Louise visualize the campai
 
 ## Result
 
-### Analysis of Outcomes Based on Launch Date
-### Analysis of Outcomes Based on Goals
+### Analysis of Outcomes Based on Launch Date - (including in the Dataset)
+### Analysis of Outcomes Based on Goals - (including in the Dataset)
 
 Based on the analysis, it will be best to start the fundraising during the months of May and June, as it shows a higher rate of funding from individuals as well as other organizations (profit and non-profit).
 
